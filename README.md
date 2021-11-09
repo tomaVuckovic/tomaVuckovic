@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomaVuckovic
-- 👀 I’m interested in Java, Web Development(Back end)...
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Java, Phyton, DevOps, Web Development(Back end)...
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on fitness app.
 - 📫 How to reach me toma.vuckovic1@gmail.com
