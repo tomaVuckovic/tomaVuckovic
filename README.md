@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tomaVuckovic
-- 👀 I’m interested in Phyton, DevOps, Web Development(Back end)...
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Phyton, DevOps, AWS Cloud.
+- 🌱 I’m currently learning for AWS Solutions Architect Associate. 
 - 📫 How to reach me toma.vuckovic1@gmail.com
